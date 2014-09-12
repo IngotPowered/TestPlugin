@@ -1,2 +1,5 @@
 ingot-config:
     main: com.gosmartvps.test.Test
+    name: TestPlugin
+    author: dreadiscool
+    description: This is just a test plugin
